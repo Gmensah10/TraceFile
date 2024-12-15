@@ -1,0 +1,8 @@
+File Name: Random Data Sample
+Date Created: 2024-01-20
+Content:
+The quick brown fox jumps over the lazy dog.
+1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+Some special characters: @!#$%^&*()_+={}[]|:;'"<>,.?/
+
+This file can help test if the tool correctly reads and extracts metadata from different types of content.
