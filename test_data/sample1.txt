@@ -1,0 +1,9 @@
+Document Title: TraceFile User Guide
+Date: 2024-01-01
+Summary: This document explains how to use the TraceFile forensic tool.
+Created by: UserName
+Modified on: 2024-01-02
+Last Accessed: 2024-01-05
+
+Content: 
+This is the user manual for TraceFile. It explains the core functionality of the tool and its features. It also contains examples and usage instructions for the tool.
